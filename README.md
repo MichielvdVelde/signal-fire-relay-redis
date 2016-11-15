@@ -41,4 +41,4 @@ That's all!
 
 Copyright 2016 [Michiel van der Velde](http://www.michielvdvelde.nl).
 
-This software is licensed under the [MIT License](MIT).
+This software is licensed under the [MIT License](LiCENSE).
