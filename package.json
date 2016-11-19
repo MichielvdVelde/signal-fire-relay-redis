@@ -1,6 +1,6 @@
 {
-  "name": "signal-fire-relay-redis",
-  "version": "0.1.0",
+  "name": "signal-fire-relay-mqtt",
+  "version": "0.2.0",
   "author": "Michiel van der Velde <michiel@michielvdvelde.nl>",
   "homepage": "https://github.com/MichielvdVelde/signal-fire-relay-redis",
   "license": "MIT",
