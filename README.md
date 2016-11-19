@@ -35,6 +35,14 @@ const server = new Server({
 
 That's all!
 
+#### Changelog
+
+* v0.2.0
+  * The `error` event on the MQTT connection is now re-emitted
+  * Renamed `.relay()` to `.send()` (**breaking change**, only compatible with signal-fire 0.3.0 or higher!)
+* v0.1.0
+  * Initial release
+
 [![Standard - JavaScript Style Guide](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
 
 #### License
