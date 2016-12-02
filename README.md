@@ -2,6 +2,8 @@
 
 [![Standard - JavaScript Style Guide](https://img.shields.io/badge/code%20style-standard-brightgreen.svg)](http://standardjs.com/)
 
+**Note:** Starting with signal-fire 0.4.0, this relay is deprecated. Use [signal-fire-relay](https://github.com/MichielvdVelde/signal-fire-relay) instead!
+
 **signal-fire-relay-redis** is a relay for **[signal-fire](https://github.com/MichielvdVelde/signal-fire)**, a horizontally scalable
 signaling server for **WebRTC**. This module can be used as a reference implementation for writing your own relays.
 
@@ -37,6 +39,8 @@ That's all!
 
 #### Changelog
 
+* v0.3.0
+  * Added deprecation notice. **Starting with signal-fire v0.4.0**, use [signal-fire-relay](https://github.com/MichielvdVelde/signal-fire-relay) instead!
 * v0.2.0
   * The `error` event on the MQTT connection is now re-emitted
   * Renamed `.relay()` to `.send()` (**breaking change**, only compatible with signal-fire 0.3.0 or higher!)
